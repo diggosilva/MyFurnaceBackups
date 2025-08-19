@@ -1,0 +1,48 @@
+/*
+ Localizable.strings
+ My Furnace Backups
+
+ Created by Diggo Silva on 01/05/25.
+
+*/
+
+//MARK: Sobre o App
+"about_menu" = "Sobre My Furnace Backups";
+"quit_menu" = "Sair do My Furnace Backups";
+"about_title" = "My Furnace Backups";
+"about_description" = "My Furnace Backups é uma ferramenta para exportar e importar backups do Furnace.\n\nGostou do app? Considere fazer uma doação para apoiar o desenvolvimento!";
+"view_on_github" = "🔗 Ver no GitHub";
+"close_button" = "Fechar";
+
+//MARK: Menus de Interface
+"window_title" = "My Furnace Backups";
+"view_title" = "My Furnace Backups";
+"version_title" = "1.0.0";
+"zip_checkbox" = "Compactar como .zip";
+"export_button" = "Exportar";
+"import_button" = "Importar";
+"ok_button" = "OK";
+
+//MARK: Exportação
+"export_window_title" = "ESCOLHA O DIRETÓRIO ONDE VOCÊ DESEJA SALVAR OS BACKUPS DO FURNACE.";
+"export_cancelled" = "Exportação Cancelada ⛔️";
+"export_done" = "Exportação Concluída ✅";
+"nothing_to_export" = "Nada a Exportar ⛔️";
+"export_error" = "Erro ao Exportar Backups ⛔️";
+"export_summary" = "%d backups encontrados\n%d exportados\n%d ignorados (já existiam)";
+"zip_success" = "Backups compactados para:\n%@";
+"furnace_folder_missing" = "A pasta de backups do Furnace não foi encontrada.\n\nVerifique se o Furnace está instalado corretamente ou se você não renomeou pastas essenciais.";
+"no_backups_available" = "Nenhum backup foi encontrado na pasta do Furnace para exportar.";
+"export_cancelled_desc" = "A exportação foi cancelada pelo usuário.\nCaso queira exportar seus backups, selecione um diretório de destino para exportar a pasta.";
+
+//MARK: Importação
+"import_window_title" = "ESCOLHA A PASTA ONDE ESTÃO OS BACKUPS QUE VOCÊ DESEJA IMPORTAR.";
+"import_cancelled" = "Importação Cancelada ⛔️";
+"import_done" = "Importação Concluída ✅";
+"nothing_to_import" = "Nada a Importar ⛔️";
+"import_error" = "Erro ao Importar Backups ⛔️";
+"import_summary" = "%d backups encontrados\n%d importados\n%d ignorados (já existiam)";
+"no_backups_found_desc" = "Nenhum arquivo '.fur' encontrado na pasta selecionada.";
+"import_cancelled_desc" = "A importação foi cancelada pelo usuário.";
+"missing_critical_dir" = "A pasta crítica do sistema não foi encontrada:\n%@\n\nVerifique se o Furnace está instalado corretamente ou se você não renomeou pastas essenciais.";
+"backups_is_file" = "Já existe um **arquivo** chamado 'backups' na pasta do Furnace, impedindo a criação da pasta de backups.\n\nRenomeie ou remova esse arquivo manualmente para continuar.";
