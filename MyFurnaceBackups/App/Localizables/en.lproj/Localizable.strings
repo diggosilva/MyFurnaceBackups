@@ -1,0 +1,48 @@
+/*
+ Localizable.strings
+ My Furnace Backups
+
+ Created by Diggo Silva on 01/05/25.
+
+*/
+
+//MARK: About App
+"about_menu" = "About My Furnace Backups";
+"quit_menu" = "Quit My Furnace Backups";
+"about_title" = "My Furnace Backups";
+"about_description" = "My Furnace Backups is a tool to export and import Furnace backups.\n\nLike the app? Consider donating to support its development!";
+"view_on_github" = "🔗 View on GitHub";
+"close_button" = "Close";
+
+//MARK: Menus de Interface
+"window_title" = "My Furnace Backups";
+"view_title" = "My Furnace Backups";
+"version_title" = "1.0.0";
+"zip_checkbox" = "Compress as .zip";
+"export_button" = "Export";
+"import_button" = "Import";
+"ok_button" = "OK";
+
+//MARK: Exportação
+"export_window_title" = "CHOOSE THE DIRECTORY WHERE YOU WANT TO SAVE THE FURNACE BACKUPS.";
+"export_cancelled" = "Export Cancelled ⛔️";
+"export_done" = "Export Completed ✅";
+"nothing_to_export" = "Nothing to Export ⛔️";
+"export_error" = "Error Exporting Backups ⛔️";
+"export_summary" = "%d backups found\n%d exported\n%d skipped (already existed)";
+"zip_success" = "Backups zipped to:\n%@";
+"furnace_folder_missing" = "The Furnace backups folder was not found.\n\nPlease check if Furnace is correctly installed or if you haven't renamed essential folders.";
+"no_backups_available" = "No backups were found in the Furnace folder to export.";
+"export_cancelled_desc" = "The export was canceled by the user.\nTo export your backups, select a destination folder.";
+
+//MARK: Importação
+"import_window_title" = "CHOOSE THE FOLDER CONTAINING THE BACKUPS YOU WANT TO IMPORT.";
+"import_cancelled" = "Import Cancelled ⛔️";
+"import_done" = "Import Completed ✅";
+"nothing_to_import" = "Nothing to Import ⛔️";
+"import_error" = "Error Importing Backups ⛔️";
+"import_summary" = "%d backups found\n%d imported\n%d skipped (already existed)";
+"no_backups_found_desc" = "No '.fur' files found in the selected folder.";
+"import_cancelled_desc" = "The import was canceled by the user.";
+"missing_critical_dir" = "A critical system folder was not found:\n%@\n\nPlease check if Furnace is correctly installed or if you haven't renamed essential folders.";
+"backups_is_file" = "A **file** named 'backups' already exists in the Furnace folder, preventing the creation of the backups folder.\n\nRename or remove this file manually to proceed.";
