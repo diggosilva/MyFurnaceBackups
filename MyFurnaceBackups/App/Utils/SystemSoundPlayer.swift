@@ -1,6 +1,6 @@
 //
 //  SystemSoundPlayer.swift
-//  My Furnace Backups
+//  MyFurnaceBackups
 //
 //  Created by Diggo Silva on 12/06/25.
 //

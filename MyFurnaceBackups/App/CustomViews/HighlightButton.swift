@@ -1,6 +1,6 @@
 //
 //  HighlightButton.swift
-//  My Furnace Backups
+//  MyFurnaceBackups
 //
 //  Created by Diggo Silva on 19/05/25.
 //
