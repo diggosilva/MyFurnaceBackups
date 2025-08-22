@@ -1,6 +1,6 @@
 //
 //  FurnaceErrors.swift
-//  My Furnace Backups
+//  MyFurnaceBackups
 //
 //  Created by Diggo Silva on 28/04/25.
 //

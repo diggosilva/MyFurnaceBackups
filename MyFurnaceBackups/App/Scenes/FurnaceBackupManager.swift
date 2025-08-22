@@ -1,6 +1,6 @@
 //
 //  FurnaceBackupManager.swift
-//  My Furnace Backups
+//  MyFurnaceBackups
 //
 //  Created by Diggo Silva on 29/04/25.
 //
