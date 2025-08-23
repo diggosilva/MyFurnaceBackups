@@ -60,8 +60,7 @@ Contributions are welcome! If you find a bug, have a suggestion for an improveme
 - This project is licensed under the MIT License. See the `LICENSE` file for more details.
 - MIT License © Diggo Silva
 
-#
-#
+---
 
 # 💾 My Furnace Backup App para macOS 11.5 ou posterior 🇧🇷
 
