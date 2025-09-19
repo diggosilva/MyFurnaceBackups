@@ -31,7 +31,8 @@ The first time you use the app, macOS may ask for your permission to access this
 1.  **Download the App:** Download the `.zip` file of the latest version from the [Releases page](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest).
 2.  **Move to the Applications Folder:** Unzip the file and drag the **My Furnace Backup.app** to your **Applications** folder.
 3.  **Open the App:** Double-click the app icon. The first time, you might need to right-click and choose "Open" to bypass Gatekeeper protection.
-4.  **Grant Permission:** If the system prompts you, grant access to the `~/Library/Application Support/Furnace/backups` folder.
+4.  **Open System Settings:** On the left side go to Privacy & Security and click, on the right side go down to Security and click Open anyway.
+5.  **Grant Permission:** If the system prompts you, grant access to the `~/Library/Application Support/Furnace/backups` folder.
 
 ### ➡️ Exporting (Saving) Your Backups
 
@@ -84,7 +85,8 @@ Na primeira vez que você usar o aplicativo, o macOS pode solicitar sua permiss�
 1.  **Baixe o Aplicativo:** Faça o download do arquivo `.zip` da última versão na [página de Releases](https://github.com/diggosilva/MyFurnaceBackups/releases/latest).
 2.  **Mova para a Pasta de Aplicativos:** Descompacte o arquivo e arraste o **My Furnace Backup.app** para a sua pasta **Aplicativos**.
 3.  **Abra o Aplicativo:** Clique duas vezes no ícone do aplicativo. Na primeira vez, você pode precisar clicar com o botão direito e escolher "Abrir" para ignorar a proteção do Gatekeeper.
-4.  **Conceda a Permissão:** Se o sistema solicitar, conceda acesso à pasta `~/Library/Application Support/Furnace/backups`.
+4.  **Abra Configurações do Sistema:** No lado esquerdo vá até Privacidade & Segurança e clique, no lado direito desça até Segurança e clique em Abrir mesmo assim
+5.  **Conceda a Permissão:** Se o sistema solicitar, conceda acesso à pasta `~/Library/Application Support/Furnace/backups`.
 
 ### ➡️ Exportando (Salvando) seus Backups
 
